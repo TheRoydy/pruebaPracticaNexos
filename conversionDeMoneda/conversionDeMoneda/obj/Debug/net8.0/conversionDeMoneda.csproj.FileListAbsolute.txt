@@ -1,0 +1,14 @@
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\bin\Debug\net8.0\conversionDeMoneda.exe
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\bin\Debug\net8.0\conversionDeMoneda.deps.json
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\bin\Debug\net8.0\conversionDeMoneda.runtimeconfig.json
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\bin\Debug\net8.0\conversionDeMoneda.dll
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\bin\Debug\net8.0\conversionDeMoneda.pdb
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.AssemblyInfoInputs.cache
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.AssemblyInfo.cs
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.csproj.CoreCompileInputs.cache
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.dll
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\refint\conversionDeMoneda.dll
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.pdb
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.genruntimeconfig.cache
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\ref\conversionDeMoneda.dll
