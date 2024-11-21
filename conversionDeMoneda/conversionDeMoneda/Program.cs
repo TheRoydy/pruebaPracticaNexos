@@ -30,7 +30,7 @@ namespace conversionDeMoneda
                     //si la entrada del usuario es un número válido
                     if (double.TryParse(Console.ReadLine(), out monto) && monto > 0)
                     {
-                        break; // Si la enntrada es válida, salimos del bucle
+                        break; // Si la entrada es válida, salimos del bucle
                     }
                     else
                     {   
