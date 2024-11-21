@@ -12,3 +12,4 @@ D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net
 D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.pdb
 D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.genruntimeconfig.cache
 D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\ref\conversionDeMoneda.dll
+D:\Documents\PRUEBA_PRACTICA\conversionDeMoneda\conversionDeMoneda\obj\Debug\net8.0\conversionDeMoneda.sourcelink.json

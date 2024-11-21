@@ -9,12 +9,13 @@ namespace conversionDeMoneda
         static void Main(string[] args)
         {
             // Definimos las variables 
-            const double monedaUsd = 4000;
-            const double monedaEur = 4500;
+            const double monedaUsd = 4409.29;
+            const double monedaEur = 4618.30;
             bool continuar = true;
 
             Console.WriteLine("Conversión de Moneda de Pesos Colombianos (COP) a USD y EUR");
 
+            //Abirmos ciclo while para empezar a estructurar nuestro programa
             while (continuar)
             {
                 double monto = 0;
@@ -45,8 +46,8 @@ namespace conversionDeMoneda
 
                 // Mostramos los resultados
                 Console.WriteLine("\nResultados de la Conversión:");
-                Console.WriteLine($"El valor en USD es: " + valorEnUsd);
-                Console.WriteLine($"El valor en EUR es: " + valorEnEur);
+                Console.WriteLine("El valor en USD es: " + valorEnUsd);
+                Console.WriteLine("El valor en EUR es: " + valorEnEur);
 
                 // Preguntamos si el usuario desea continuar
                 Console.Write("\n¿Deseas convertir otro monto? (S/N): ");
@@ -54,7 +55,7 @@ namespace conversionDeMoneda
                 string respuesta = Console.ReadLine().ToUpper();
 
                 //Validamos si el usuario quiere continuar, en caso de ser N
-                // o diferente de N cerramos el bucle While
+                // o diferente de N cerramos el bucle While y finalizaria nuestro programa
                 if (respuesta != "S")
                 {
                     continuar = false;
